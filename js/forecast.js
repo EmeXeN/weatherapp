@@ -1,4 +1,4 @@
-const key = 'f523e0a9df303bc5678966de29cfba39'
+const key = '' // your api key
 
 const weatherSearch = async (city) => {
 
